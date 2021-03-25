@@ -1,11 +1,16 @@
 _repo: A-History-of-the-Comstock-Silver-Lode-Mines-Nevada-and-the-Great-Basin-Region-Lake-Tahoe-and-__64699
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64699-h/images/cover.jpg
 creator:
   author:
     agent_name: Quille, Dan de
     gutenberg_agent_id: '53016'
     url: http://www.gutenberg.org/2009/agents/53016
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64699#A-History-of-the-Comstock-Silver-Lode-Mines-Nevada-and-the-Great-Basin-Region-Lake-Tahoe-and-_
 gutenberg_issued: '2021-03-05'
 gutenberg_type: Text
 identifiers:
